@@ -3,6 +3,54 @@ import { NotchDevice } from './privateTypes';
 const devicesWithNotch: NotchDevice[] = [
   {
     brand: 'Apple',
+    model: 'iPhone 15',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 15 Plus',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 15 Pro',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 15 Pro Max',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 14',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 14 Plus',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 14 Pro',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 14 Pro Max',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 13 mini',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 13',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 13 Pro',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 13 Pro Max',
+  },
+  {
+    brand: 'Apple',
     model: 'iPhone 12 mini',
   },
   {
@@ -59,10 +107,6 @@ const devicesWithNotch: NotchDevice[] = [
   },
   {
     brand: 'google',
-    model: 'Pixel 3a',
-  },
-  {
-    brand: 'google',
     model: 'Pixel 4a',
   },
   {
@@ -91,6 +135,10 @@ const devicesWithNotch: NotchDevice[] = [
   },
   {
     brand: 'Huawei',
+    model: 'Honor Play',
+  },
+  {
+    brand: 'Huawei',
     model: 'Honor 10',
   },
   {
@@ -112,6 +160,10 @@ const devicesWithNotch: NotchDevice[] = [
   {
     brand: 'Huawei',
     model: 'P30 Pro',
+  },
+  {
+    brand: 'Huawei',
+    model: 'JNY-LX1', // P40 Lite
   },
   {
     brand: 'Huawei',
@@ -295,6 +347,10 @@ const devicesWithNotch: NotchDevice[] = [
   },
   {
     brand: 'xiaomi',
+    model: 'Redmi Note 8 Pro',
+  },
+  {
+    brand: 'xiaomi',
     model: 'Mi A2 Lite',
   },
   {
@@ -303,7 +359,15 @@ const devicesWithNotch: NotchDevice[] = [
   },
   {
     brand: 'Samsung',
+    model: 'SM-A202F',
+  },
+  {
+    brand: 'Samsung',
     model: 'SM-A217F',
+  },
+  {
+    brand: 'Samsung',
+    model: 'SM-A715F',
   },
 ];
 
